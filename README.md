@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Sebastien2007
-- 👀 I’m interested in ML & Robotics
+- 👀 I’m interested in ML & Robotics, specifically General-purpose Robots
+
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me MeGamingNow@gmail.com
